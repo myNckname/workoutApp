@@ -1,0 +1,15 @@
+C:\Users\dimon\source\repos\DLL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\dimon\source\repos\DLL\bin\Debug\net5.0\DAL.dll
+C:\Users\dimon\source\repos\DLL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\dimon\source\repos\DLL\bin\Debug\net5.0\DAL.pdb
+C:\Users\dimon\source\repos\DLL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimon\source\repos\DLL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\dimon\source\repos\DLL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\dimon\source\repos\DLL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\dimon\source\repos\DLL\obj\Debug\net5.0\DAL.dll
+C:\Users\dimon\source\repos\DLL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\dimon\source\repos\DLL\obj\Debug\net5.0\DAL.pdb
+C:\Users\dimon\source\repos\DLL\bin\Debug\net5.0\DAL.runtimeconfig.json
+C:\Users\dimon\source\repos\DLL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+C:\Users\dimon\source\repos\DLL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+C:\Users\dimon\source\repos\DLL\obj\Debug\net5.0\DAL.csprojAssemblyReference.cache
